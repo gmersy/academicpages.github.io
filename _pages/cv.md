@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* September 2021 - Present: Graduate Research Assistant
+* Fall 2021 - Present: Graduate Research Assistant
   * University of Chicago
   * Research projects spanning data systems, machine learning, and sustainability
  
-* September 2021 - Present: Graduate Teaching Assistant
+* Fall 2021 - Present: Graduate Teaching Assistant
   * University of Chicago
   * Undergraduate data science and engineering courses
 
