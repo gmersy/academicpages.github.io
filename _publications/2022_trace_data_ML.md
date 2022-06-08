@@ -5,8 +5,8 @@ permalink: /publication/2020_ML_political_polarization
 excerpt: 'Trace data and machine learning'
 date: 2022
 venue: 'International Journal of Selection and Assessment'
-paperurl: https://arxiv.org/pdf/2008.04072.pdf
-citation: 'Auer, E. M., Mersy, G., Marin, S., Blaik, J., & Landers, R. N. (2022). *Using machine learning to model trace behavioral data from a game-based assessment*. International Journal of Selection and Assessment, 30, 82–102. https://doi.org/10.1111/ijsa.12363'
+paperurl: https://doi.org/10.1111/ijsa.12363
+citation: 'Auer, E. M., Mersy, G., Marin, S., Blaik, J., & Landers, R. N. (2022). Using machine learning to model trace behavioral data from a game-based assessment. International Journal of Selection and Assessment, 30, 82–102. https://doi.org/10.1111/ijsa.12363'
 ---
 [Download paper here](https://doi.org/10.1111/ijsa.12363)
 
