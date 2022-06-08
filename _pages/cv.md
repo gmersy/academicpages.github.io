@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* September 2021 - Present: Research Assistant
+* September 2021 - Present: Graduate Research Assistant
   * University of Chicago
   * Research projects spanning data systems, machine learning, and sustainability
  
-* September 2021 - Present: Teaching Assistant
+* September 2021 - Present: Graduate Teaching Assistant
   * University of Chicago
   * Undergraduate data science and engineering courses
 
@@ -30,12 +30,12 @@ Work experience
   * Anomaly detection in data streams.
 
 * Summer 2020: Software Engineer Intern
-  * Data dictionary automation and features for a large payment processing application.
+  * Data dictionary automation and features for a large payment processing application
   * US Bank
 
-* 2019-2021: Research Assistant
+* 2019-2021: Undergraduate Research Assistant
   * University of Minnesota - Twin Cities
-  * Research in computational social science, computational statistics, and machine learning. 
+  * Research in computational social science, machine learning, and computational statistics
   
 Skills
 ======
