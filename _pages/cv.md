@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Computer Science, University of Minnesota - Twin Cities, 2021
 * M.S. in Computer Science, University of Chicago, 2023 (expected)
-* Ph.D in Computer Science, University of Chicago, 2026 (expected)
+* Ph.D. in Computer Science, University of Chicago, 2026 (expected)
 
 Work experience
 ======
