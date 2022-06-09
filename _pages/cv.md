@@ -27,7 +27,7 @@ Work experience
 
 * Summer 2022: Data Science R&D Intern
   * [BigID](https://bigid.com/)
-  * Anomaly detection in data streams.
+  * Anomaly detection for data streams
 
 * Summer 2020: Software Engineer Intern
   * Data dictionary automation and features for a large payment processing application
