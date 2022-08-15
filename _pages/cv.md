@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Computer Science, University of Minnesota - Twin Cities, 2021
-* M.S. in Computer Science, University of Chicago, 2023 (expected)
 * Ph.D. in Computer Science, University of Chicago, 2026 (expected)
+* M.S. in Computer Science, University of Chicago, 2023 (expected)
+* B.A. in Computer Science, University of Minnesota - Twin Cities, 2021
 
 Work experience
 ======
@@ -27,11 +27,16 @@ Work experience
 
 * Summer 2022: Data Science R&D Intern
   * [BigID](https://bigid.com/)
-  * Anomaly detection for data streams
+  * Structured data profiling
 
 * Summer 2020: Software Engineer Intern
-  * Data dictionary automation and features for a large payment processing application
   * US Bank
+  * Data dictionary automation and features for a large payment processing application
+
+* Spring 2020: Technical Writing Intern
+  * [Kite](https://www.kite.com/)
+  * Wrote code and (speaking) scripts for entertaining educational videos on machine learning 
+  * Developed documentation for common Python questions 
 
 * 2019-2021: Undergraduate Research Assistant
   * University of Minnesota - Twin Cities
@@ -41,7 +46,7 @@ Skills
 ======
 * Data systems
 * Machine learning
-* Statistics
+* Statistics and information theory
 * Languages
   * Python (advanced)
   * C/C++ (advanced)
