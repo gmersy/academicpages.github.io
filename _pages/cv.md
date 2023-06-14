@@ -42,30 +42,6 @@ Work experience
   * University of Minnesota - Twin Cities
   * Research in computational social science, machine learning, and computational statistics
   
-Skills
-======
-* Data systems
-* Machine learning
-* Statistics and information theory
-* Languages
-  * Python (advanced)
-  * C/C++ (advanced)
-  * Java (beginner)
-  * R (advanced)
-  * SQL (advanced)
-
-* Libraries/frameworks
-  * NumPy
-  * Pandas
-  * SciPy
-  * scikit-learn
-  * PyTorch
-  * TensorFlow
-  * Matplotlib
-  * statsmodels
-  * CuPy
-  * NLTK
-  * OpenCV
 
 Publications
 ======
