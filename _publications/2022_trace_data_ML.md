@@ -8,8 +8,3 @@ venue: 'International Journal of Selection and Assessment'
 paperurl: https://doi.org/10.1111/ijsa.12363
 citation: 'Auer, E. M., Mersy, G., Marin, S., Blaik, J., & Landers, R. N. (2022). Using machine learning to model trace behavioral data from a game-based assessment. <i>International Journal of Selection and Assessment</i>, 30, 82–102. https://doi.org/10.1111/ijsa.12363'
 ---
-[Download paper here](https://doi.org/10.1111/ijsa.12363)
-
-Suggested citation:
-
-Auer, E. M., Mersy, G., Marin, S., Blaik, J., & Landers, R. N. (2022). Using machine learning to model trace behavioral data from a game-based assessment. *International Journal of Selection and Assessment*, 30, 82–102. https://doi.org/10.1111/ijsa.12363
